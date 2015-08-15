@@ -1,30 +1,15 @@
-Agency Jekyll theme
+Sushi Warehaus
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+An innovative lifestyle startup
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+# What's in this repo:
+This repo contains the source code for the Sushi Warehaus (tm) site.
 
 
 # Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View this jekyll theme in action [here](https://aleksnavratil.github.io/sushi-warehouse)
 
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+For more details, [read](https://en.wikipedia.org/wiki/Sushi) [documentation](https://en.wikipedia.org/wiki/Warehouse)
