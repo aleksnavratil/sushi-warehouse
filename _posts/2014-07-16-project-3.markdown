@@ -4,8 +4,8 @@ subtitle: Conveniently located on a desolate freeway in New Jersey
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: jersey.jpg
+thumbnail: jersey.jpg
 alt: image-alt
 project-date: April 2014
 client: remove this
