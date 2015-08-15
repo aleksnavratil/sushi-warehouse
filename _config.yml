@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Mike Kelly
-  pic: 2
+  pic: mike
   position: CEO and Founder
   social:
     - title: twitter
@@ -24,7 +24,7 @@ people:
       url: 
 
 - name: Aleks Navratil
-  pic: 2
+  pic: aleks
   position: Chief Data Scientist
   social:
     - title: twitter
@@ -32,10 +32,10 @@ people:
     - title: facebook
       url: http://aleksnavratil.com/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/aleksnavratil
 
 - name: Luke Kowalczyk
-  pic: 2
+  pic: luke
   position: Chief Technical Officer
   social:
     - title: twitter
@@ -44,14 +44,14 @@ people:
       url: https://www.linkedin.com/pub/lucas-kowalczyk/26/5b7/b76
 
 - name: Satoshi Nakamoto
-  pic: 2
+  pic: satoshi
   position: Chief Sushi Officer
   social:
     - title: twitter
       url: https://twitter.com/carlthegnarl
 
 - name: Doug Bienstock
-  pic: 2
+  pic: doug
   position: Chief Security Officer
   social:
     - title: twitter
@@ -60,7 +60,7 @@ people:
       url: https://www.linkedin.com/pub/douglas-bienstock/61/b00/353
 
 - name: Adam Halbert
-  pic: 2
+  pic: adam
   position: Chief Visionary at SushiX Research Labs
   social:
     - title: twitter
@@ -73,7 +73,7 @@ social:
   - title: twitter
     url: https://twitter.com/carlthegnarl
   - title: facebook
-    url:
+    url: http://aleksnavratil.com/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/sushi
   - title: github
