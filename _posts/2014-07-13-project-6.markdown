@@ -1,6 +1,6 @@
 ---
 title: Drone Fleet
-subtitle: Sushi Warehouse without borders
+subtitle: Sushi Warehaus without borders
 layout: default
 modal-id: 6
 date: 2014-07-15
