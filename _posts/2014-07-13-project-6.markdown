@@ -4,8 +4,8 @@ subtitle: Sushi Warehouse without borders
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: drone.jpg
+thumbnail: drone-thumbnail.jpg
 alt: image-alt
 project-date: remove this
 client: remove this

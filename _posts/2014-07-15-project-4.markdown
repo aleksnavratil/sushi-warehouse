@@ -4,8 +4,8 @@ subtitle: Stealth-mode skunkworks research lab
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: lab.jpg
+thumbnail: lab-thumbnail.jpg
 alt: image-alt
 project-date: remove
 client: remove
