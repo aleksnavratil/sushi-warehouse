@@ -2,9 +2,9 @@ url: https://aleksnavratil.github.io
 baseurl: /sushi-warehouse/
 
 # Site settings
-title: Sushi Warehouse
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Sushi Warehaus
+email: aleks.navratil@gmail.com
+description: "A giant pile of NJ gas station sushi"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,38 +14,59 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
+- name: Mike Kelly
   pic: 2
-  position: Lead Marketer
+  position: CEO and Founder
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/carlthegnarl
+    - title: linkedin
+      url: 
+
+- name: Aleks Navratil
+  pic: 2
+  position: Chief Data Scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/carlthegnarl
     - title: facebook
       url: #
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Luke Kowalczyk
+  pic: 2
+  position: Chief Technical Officer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/carlthegnarl
+    - title: linkedin
+      url: https://www.linkedin.com/pub/lucas-kowalczyk/26/5b7/b76
+
+- name: Satoshi Nakamoto
+  pic: 2
+  position: Chief Sushi Officer
+  social:
+    - title: twitter
+      url: https://twitter.com/carlthegnarl
+
+- name: Doug Bienstock
+  pic: 2
+  position: Chief Security Officer
+  social:
+    - title: twitter
+      url: https://twitter.com/carlthegnarl
+    - title: linkedin
+      url: https://www.linkedin.com/pub/douglas-bienstock/61/b00/353
+
+- name: Adam Halbert
+  pic: 2
+  position: Chief Visionary at SushiX Research Labs
+  social:
+    - title: twitter
+      url: https://twitter.com/carlthegnarl
+    - title: linkedin
+      url: https://www.linkedin.com/pub/adam-halbert/aa/7a1/985
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -62,8 +83,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1 Astor Place,
+  - line: New York, New York, 10010
 
 # Build settings
 markdown: kramdown
