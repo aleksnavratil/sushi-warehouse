@@ -10,6 +10,6 @@ alt: image-alt
 project-date: remove
 client: remove
 category: remove
-description: A percentage of Sushi Warehaus profits are reinvested in the community. Not just because it's the right thing to do, but because it's a part of who we are. 
+description: A percentage of Sushi Warehouse profits are reinvested in the community. Not just because it's the right thing to do, but because it's a part of who we are. 
 
 ---

@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: remove this
 category: remove this
-description: Sushi Warehaus is a fully immersive social lifestyle. Play with the people you love, or make new friends at the Warehaus.
+description: Sushi Warehouse is a fully immersive social lifestyle. Play with the people you love, or make new friends at the Warehouse.
 
 ---

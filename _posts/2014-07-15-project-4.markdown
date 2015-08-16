@@ -10,6 +10,6 @@ alt: image-alt
 project-date: remove
 client: remove
 category: remove
-description: Moonshots are important to every company with a world-changing mission. SushiX is a secretive research facility developing the next generation of highly-disruptive products and services for the Sushi Warehaus family of companies. 
+description: Moonshots are important to every company with a world-changing mission. SushiX is a secretive research facility developing the next generation of highly-disruptive products and services for the Sushi Warehouse family of companies. 
 
 ---

@@ -1,10 +1,10 @@
-Sushi Warehaus
+Sushi Warehouse
 ====================
 
 An innovative lifestyle startup
 
 # What's in this repo:
-This repo contains the source code for the Sushi Warehaus (tm) site.
+This repo contains the source code for the Sushi Warehouse (tm) site.
 
 
 # Demo
