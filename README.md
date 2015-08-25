@@ -9,7 +9,7 @@ This repo contains the source code for the Sushi Warehouse (tm) site.
 
 # Demo
 
-View this site in action [here](https://aleksnavratil.github.io/sushi-warehouse)
+View this site in action [here](http://www.sushi-warehouse.com)
 
 =========
 For more details, [read](https://en.wikipedia.org/wiki/Sushi) the [documentation](https://en.wikipedia.org/wiki/Warehouse)
