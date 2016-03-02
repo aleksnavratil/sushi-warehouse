@@ -10,6 +10,6 @@ alt: image-alt
 <!---project-date: TODO- REMOVE THIS--->
 <!---client: TODO - REMOVE THIS--->
 <!---category: TODO- REMOVE THIS--->
-description: A cutting-edge architectural collaboration by Zaha Hadid and Shigeru Ban, our climate-controlled, autonomous-sushi-churning-gantry equipped temple to innovation is the perfect venue for an elite lifestyle. 
+description: A cutting-edge architectural collaboration by Zaha Hadid and Shigeru Ban, our climate-controlled, autonomous-sushi-churning-gantry equipped temple to innovation is the perfect venue for your lifestyle. 
 
 ---
