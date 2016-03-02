@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: remove this
 category: remove this
-description: From Cleveland to LA, people are flocking to Sushi Warehouse's convenient New Jersey location.
+description: It's a movement. People from all around the world are coming together at Sushi Warehouse's convenient New Jersey location.
 
 ---
