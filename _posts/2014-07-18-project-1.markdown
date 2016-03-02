@@ -8,8 +8,8 @@ img: warehouse.jpg
 thumbnail: warehouse-thumbnail.jpg
 alt: image-alt
 <!---project-date: TODO- REMOVE THIS--->
-client: TODO - REMOVE THIS
-category: TODO- REMOVE THIS
+<!---client: TODO - REMOVE THIS--->
+<!---category: TODO- REMOVE THIS--->
 description: The SW warehouse is a great place to hang out with friends, and a perfect venue to participate in the sustainable and groundbreaking Sushi Warehouse lifestyle
 
 ---
