@@ -17,6 +17,4 @@ For more details, [read](https://en.wikipedia.org/wiki/Sushi) the [documentation
 ========
 Todos:
 * Install Google Analytics to track the thousands of pageviews we receive each minute
-* Make the images in the Portfolio section a uniform size and aspect ratio
-* Remove the text below the images in each of the modal dialogs of the Portfolio section
-
+* Make the contact link actually send us mail. Probably this is an ugly PHP hacking job.
