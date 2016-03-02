@@ -10,6 +10,6 @@ alt: image-alt
 project-date: remove this
 client: remove this
 category: remove this
-description: Our fleet of autonomous communication drones brings sushi warehouse stats, high scores, and leaderboard results to your phone no matter where you are.
+description: From the Kalahari desert to the snows of Kilamanjaro, our fleet of autonomous communication drones brings Sushi Warehouse stats, high scores, and leaderboard results to your phone - no matter where you are!
 
 ---
